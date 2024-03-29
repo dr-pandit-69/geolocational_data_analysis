@@ -42,6 +42,6 @@ Performance maybe a little slow due to real-time rendering of all graphs. Foursq
 5) Run the Project
 
 ```bash
-  streamlit Hello.py
+  streamlit run Hello.py
 ```
 
